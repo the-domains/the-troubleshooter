@@ -1,0 +1,14 @@
+layout_spectrum: 0.2937701
+typography_spectrum: 0.9314942
+color:
+  saturation: 0.9338307
+  lightness: 0.5045122
+  brandStrength: 0.274018
+  brandColors:
+    - '#FAF3EA'
+    - '#BDB4AB'
+    - '#5D646D'
+    - '#9A8F80'
+    - '#050303'
+  rhythmicContrast: 0.7309294
+name: The Troubleshooter
