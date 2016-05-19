@@ -1,14 +1,26 @@
-layout_spectrum: 0.2937701
-typography_spectrum: 0.9314942
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.9457573
 color:
   saturation: 0.9338307
-  lightness: 0.5045122
   brandStrength: 0.274018
+  lightness: 0.5045122
   brandColors:
-    - '#FAF3EA'
-    - '#BDB4AB'
-    - '#5D646D'
-    - '#9A8F80'
-    - '#050303'
+    - '#FBF4EC'
+    - '#040203'
+    - '#B6AFA5'
+    - '#626973'
+    - '#984921'
   rhythmicContrast: 0.7309294
+layout_spectrum: 0.6407089
 name: The Troubleshooter
